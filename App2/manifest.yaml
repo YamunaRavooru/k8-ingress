@@ -16,7 +16,7 @@ spec:
         app: app2
     spec:
       containers:
-      - name: 
+      - name: app2
         image: yamuna151/app2:1.0.0
         ports:
         - containerPort: 80
